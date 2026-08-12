@@ -1,221 +1,365 @@
-<!-- Header Animation -->
+<!-- ===================== HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Seepana%20Jyothirmai&fontSize=42&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&text=&fontSize=0&animation=twinkling" width="100%"/>
 </p>
 
-<!-- Typing Animation -->
+<!-- ===================== NAME TYPING ===================== -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=2500&pause=700&color=6C63FF&center=true&vCenter=true&width=900&height=80&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B;Seepana+Jyothirmai" alt="Typing Name"/>
+</h1>
+
+<!-- ===================== ROLE TYPING ===================== -->
 
 <p align="center">
-  <a href="https://github.com/Jyothirmai-09">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=6C63FF&center=true&vCenter=true&width=850&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full-Stack+Developer+%7C+Data+Analytics+Enthusiast;Problem+Solver+%7C+500%2B+DSA+Problems;Building+%7C+Analyzing+%7C+Solving" alt="Typing SVG"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=333333&center=true&vCenter=true&width=950&height=55&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems" alt="Typing Roles"/>
+</p>
+
+<!-- ===================== SOCIAL LINKS ===================== -->
+
+<p align="center">
+
+<a href="mailto:seepanajyothirmai60@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seepanajyothirmai">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jyothirmai-09">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://jyothirmai-09.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Jyothirmai_09/">
+<img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.codechef.com/users/jyothirmai_09">
+<img src="https://img.shields.io/badge/CODECHEF-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+</p>
+
+<!-- ===================== PROFILE VIEWS ===================== -->
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=PROFILE+VIEWS&color=6C63FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<br>
+
+<!-- ===================== ABOUT ME ===================== -->
+
+<h2 align="center">🧠 About Me</h2>
+
+<p align="center">
+  <b>Computer Science Undergraduate | Full Stack Developer | Data Analyst | Problem Solver</b>
 </p>
 
 <p align="center">
-  <a href="mailto:seepanajyothirmai60@gmail.com">
-    <img src="https://img.shields.io/badge/Email-seepanajyothirmai60%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seepanajyothirmai">
-    <img src="https://img.shields.io/badge/LinkedIn-Seepana%20Jyothirmai-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/u/Jyothirmai_09/">
-    <img src="https://img.shields.io/badge/LeetCode-Jyothirmai__09-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="https://www.codechef.com/users/jyothirmai_09">
-    <img src="https://img.shields.io/badge/CodeChef-Jyothirmai__09-5B4638?style=flat-square&logo=codechef&logoColor=white"/>
-  </a>
-  <a href="https://jyothirmai-09.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=flat-square&logo=googlechrome&logoColor=white"/>
-  </a>
+  I enjoy building meaningful digital solutions, transforming data into actionable insights,
+  and solving complex problems through code.
+</p>
+
+<br>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 👩‍💻 Who I Am
+
+* 🎓 B.Tech CSE undergraduate at **Vignan's Institute of Information Technology**
+* 📅 **Class of 2027**
+* 📈 **9.41 CGPA**
+* 💻 Interested in **Full Stack Development**
+* 📊 Passionate about **Data Analytics & Business Intelligence**
+* 🧠 Strong focus on **DSA & Problem Solving**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 What I Bring
+
+* ⚡ Build responsive and user-focused web applications
+* 📊 Analyze data using **Python, SQL & Power BI**
+* 🗄️ Work with relational and cloud databases
+* 🧩 Develop reusable frontend components
+* 🧠 Solve problems through DSA & competitive programming
+* 👥 **Co-Lead — HackerRank On Campus**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+  <i>
+    "I build applications, turn data into insights, and continuously improve
+    my ability to solve challenging problems."
+  </i>
 </p>
 
 ---
 
-## 🧠 About Me
+<!-- ===================== TECHNICAL SKILLS ===================== -->
 
-* 🎓 Pursuing **B.Tech in Computer Science** at **Vignan's Institute of Information Technology**, Class of 2027, with a **9.41 CGPA**.
-* 💻 Passionate about building **responsive, scalable and user-focused full-stack applications**.
-* 📊 Interested in turning raw data into meaningful insights using **Python, SQL and Power BI**.
-* 🧠 Solved **500+ DSA problems** and actively practice competitive programming.
-* 👥 **Co-Lead — HackerRank On Campus**, conducting coding sessions, workshops and mentoring students.
-* 🚀 Currently strengthening my skills in **Full-Stack Development, Data Analytics, SQL and DSA**.
+<h2 align="center">🛠️ Technical Toolkit</h2>
 
----
+<table align="center">
+<tr>
 
-## 🛠️ Technical Skills
+<td width="50%" valign="top">
 
-### 🚀 Languages & Core Concepts
+<h3>💻 Programming Languages</h3>
 
-`C` `C++` `Python` `Java` `JavaScript` `TypeScript` `SQL`
+<p>
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
-`Data Structures & Algorithms` `OOP` `DBMS` `Problem Solving`
+</td>
 
-### 🌐 Full-Stack Development
+<td width="50%" valign="top">
 
-`HTML5` `CSS3` `React.js` `TypeScript`
+<h3>🌐 Web Development</h3>
 
-`Firebase` `Supabase` `PostgreSQL` `MongoDB`
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/REACT.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
-### 📊 Data & Analytics
+</td>
 
-`Python` `Pandas` `NumPy` `SQL`
+</tr>
 
-`Power BI` `Excel` `Data Cleaning` `EDA` `Data Visualization`
+<tr>
 
-### 🛠️ Tools & Platforms
+<td width="50%" valign="top">
 
-`Git` `GitHub` `VS Code` `Figma` `Vercel` `Render`
+<h3>🗄️ Databases</h3>
 
----
+<p>
+<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SUPABASE-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+</p>
 
-# 🚀 Featured Projects
+</td>
 
-### 🏥 [MEDIQ — AI Healthcare Companion](https://github.com/Team-Gen4AI/Project-MediQ)
+<td width="50%" valign="top">
 
-A modular healthcare platform bringing multiple healthcare utilities together into a single user-focused application.
+<h3>📊 Data Analytics & BI</h3>
 
-**Tech Stack:** `React.js` `TypeScript` `Supabase` `PostgreSQL`
+<p>
+<img src="https://img.shields.io/badge/POWER%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge&logo=powerbi&logoColor=white"/>
+<img src="https://img.shields.io/badge/POWER%20QUERY-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
+</p>
 
-**Highlights**
+</td>
 
-* 🔐 Authentication and secure user access using Supabase.
-* 🧩 Reusable and responsive React components.
-* 🤖 AI-assisted healthcare features.
-* 🗄️ PostgreSQL-backed application data.
-* 📱 User-focused and responsive interface.
+</tr>
 
-🔗 **[GitHub Repository](https://github.com/Team-Gen4AI/Project-MediQ)**
+<tr>
 
----
+<td width="50%" valign="top">
 
-### 📊 [Retail Analytics Dashboard](https://github.com/Jyothirmai-09/Retail_Analytics_DAX_Project)
+<h3>📈 Analytics & Visualization</h3>
 
-An interactive Power BI dashboard designed to analyze retail performance and uncover actionable business insights.
+<p>
+<img src="https://img.shields.io/badge/EDA-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20CLEANING-00A98F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DATA%20VISUALIZATION-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SEABORN-4C72B0?style=for-the-badge"/>
+</p>
 
-**Tech Stack:** `Power BI` `DAX` `Excel`
+</td>
 
-**Highlights**
+<td width="50%" valign="top">
 
-* 📈 KPI-driven sales and performance analysis.
-* 💰 Revenue, cost and margin analysis.
-* 📦 Product-level performance analysis.
-* 🏙️ City and regional analysis.
-* 🎯 Interactive business intelligence visualizations.
+<h3>🛠️ Tools & Platforms</h3>
 
-🔗 **[GitHub Repository](https://github.com/Jyothirmai-09/Retail_Analytics_DAX_Project)**
+<p>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/RENDER-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+</p>
 
----
+</td>
 
-### 🗄️ [SQL Retail Sales Analysis](https://github.com/Jyothirmai-09/SQL_Retail_Project)
-
-An end-to-end SQL project focused on extracting meaningful business insights from retail sales data.
-
-**Tech Stack:** `SQL` `MySQL`
-
-**Highlights**
-
-* 🔗 Complex joins and relational analysis.
-* 📊 `GROUP BY`, `HAVING`, `CASE`, CTEs and window functions.
-* 👥 Customer and product performance analysis.
-* 💰 Revenue and sales insights.
-* 🧹 Data cleaning and transformation using SQL.
-
-🔗 **[GitHub Repository](https://github.com/Jyothirmai-09/SQL_Retail_Project)**
-
----
-
-### 🌊 [VisitVizag — Tourism Website](https://github.com/Jyothirmai-09/VisitVizag)
-
-A responsive tourism website designed to showcase attractions and travel-related information about Visakhapatnam.
-
-**Tech Stack:** `HTML` `CSS` `JavaScript`
-
-**Highlights**
-
-* 🌍 Tourism-focused interface.
-* 📱 Responsive design.
-* 🔎 Interactive browsing experience.
-* 🎨 Clean and user-friendly frontend.
-
-🔗 **[GitHub Repository](https://github.com/Jyothirmai-09/VisitVizag)**
+</tr>
+</table>
 
 ---
 
-### 💼 [LinkedIn Clone](https://github.com/Jyothirmai-09/linkedin-clone)
+<!-- ===================== FEATURED PROJECTS ===================== -->
 
-A professional networking platform built to replicate core social networking functionality.
+<h2 align="center">🚀 Featured Projects</h2>
 
-**Tech Stack:** `React.js` `Firebase` `JavaScript`
+### 🏥 MEDIQ — AI Healthcare Companion
 
-**Highlights**
+> A modular healthcare platform bringing multiple healthcare utilities together into a single user-focused application.
 
-* 🔐 User authentication.
-* 👤 User-focused application flows.
-* 📰 Dynamic feed functionality.
-* 📱 Responsive interface.
-* ⚡ Reusable frontend components.
+**Tech:** `React.js` `TypeScript` `Supabase` `PostgreSQL`
 
-🔗 **[GitHub Repository](https://github.com/Jyothirmai-09/linkedin-clone)**
+* 🔐 Secure authentication using Supabase
+* 🧩 Reusable and responsive React components
+* 🤖 AI-assisted healthcare features
+* 🗄️ PostgreSQL-backed application data
+* 📱 Responsive and user-focused interface
 
----
-
-### 🎬 [Netflix Data Analysis](https://github.com/Jyothirmai-09/Netflix-python-project)
-
-An exploratory data analysis project focused on discovering patterns and trends within Netflix content data.
-
-**Tech Stack:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
-
-**Highlights**
-
-* 🧹 Data cleaning and preprocessing.
-* 🔍 Exploratory Data Analysis.
-* 📊 Content category and trend analysis.
-* 📈 Data visualization.
-* 🎯 Analysis of genres, release years and content types.
-
-🔗 **[GitHub Repository](https://github.com/Jyothirmai-09/Netflix-python-project)**
+🔗 **[View Repository](https://github.com/Team-Gen4AI/Project-MediQ)**
 
 ---
 
-# 🧠 Problem Solving
+### 📊 Retail Analytics Dashboard
 
-I actively practice **Data Structures & Algorithms** and competitive programming to strengthen algorithmic thinking and problem-solving skills.
+> Interactive Power BI dashboard designed to analyze retail performance and generate actionable business insights.
 
-### 🏆 Coding Highlights
+**Tech:** `Power BI` `DAX` `Excel`
 
-| Platform                       | Achievement              |
-| ------------------------------ | ------------------------ |
-| 🟡 **LeetCode**                | 🏅 Knight Badge          |
-| 📈 **LeetCode**                | Peak Rating: **1964**    |
-| ⭐ **CodeChef**                 | 2★                       |
-| 📈 **CodeChef**                | Peak Rating: **1543**    |
-| 💻 **DSA**                     | **500+ Problems Solved** |
-| 🔥 **Competitive Programming** | **1000+ Problems**       |
+* 📈 KPI-driven performance analysis
+* 💰 Revenue, cost and margin analysis
+* 📦 Product-level performance analysis
+* 🏙️ City and regional analysis
+* 🎯 Interactive business intelligence visualizations
 
-### Core Areas
-
-`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
-
-`Binary Search` `Linked Lists` `Stacks` `Queues`
-
-`Trees` `Graphs` `Recursion` `Dynamic Programming`
+🔗 **[View Repository](https://github.com/Jyothirmai-09/Retail_Analytics_DAX_Project)**
 
 ---
 
-# 👥 Leadership & Mentorship
+### 🗄️ SQL Retail Sales Analysis
+
+> End-to-end SQL project focused on extracting business insights from retail sales data.
+
+**Tech:** `SQL` `MySQL`
+
+* 🔗 Complex joins and relational analysis
+* 📊 `GROUP BY`, `HAVING`, `CASE`, CTEs and window functions
+* 👥 Customer and product analysis
+* 💰 Revenue and sales insights
+* 🧹 Data cleaning and transformation
+
+🔗 **[View Repository](https://github.com/Jyothirmai-09/SQL_Retail_Project)**
+
+---
+
+### 💼 LinkedIn Clone
+
+> A professional networking platform built using React and Firebase.
+
+**Tech:** `React.js` `Firebase` `JavaScript`
+
+* 🔐 Authentication
+* 👤 User registration and login
+* 📰 Dynamic feed functionality
+* 📱 Responsive interface
+* ⚡ Reusable React components
+
+🔗 **[View Repository](https://github.com/Jyothirmai-09/linkedin-clone)**
+
+---
+
+### 🌊 VisitVizag — Tourism Website
+
+> A responsive tourism platform designed to showcase attractions and travel information about Visakhapatnam.
+
+**Tech:** `HTML` `CSS` `JavaScript`
+
+* 🌍 Tourism-focused interface
+* 📱 Responsive design
+* 🔎 Interactive browsing experience
+* 🎨 User-friendly frontend
+
+🔗 **[View Repository](https://github.com/Jyothirmai-09/VisitVizag)**
+
+---
+
+### 🎬 Netflix Data Analysis
+
+> Exploratory data analysis project focused on identifying patterns and trends within Netflix content data.
+
+**Tech:** `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+* 🧹 Data cleaning and preprocessing
+* 🔍 Exploratory Data Analysis
+* 📊 Content and trend analysis
+* 📈 Data visualization
+* 🎯 Genre and release-year analysis
+
+🔗 **[View Repository](https://github.com/Jyothirmai-09/Netflix-python-project)**
+
+---
+
+<!-- ===================== PROBLEM SOLVING ===================== -->
+
+<h2 align="center">🧠 Problem Solving & Competitive Programming</h2>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/DSA-500%2B%20Problems-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Knight%20Badge-FFA116?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Peak%20Rating%201964-FFA116?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-5B4638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Competitive%20Programming-1000%2B%20Problems-2EA44F?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`
+
+`Binary Search` · `Linked Lists` · `Stacks` · `Queues` · `Trees`
+
+`Graphs` · `Recursion` · `Dynamic Programming`
+
+</p>
+
+---
+
+<!-- ===================== LEADERSHIP ===================== -->
+
+<h2 align="center">👥 Leadership & Mentorship</h2>
 
 ### 🎯 HackerRank On Campus — Co-Lead
 
-* Organized coding contests and technical sessions.
-* Conducted **DSA and programming sessions** for juniors.
-* Mentored students in **C programming and problem solving**.
-* Conducted technical workshops including **SQL and coding sessions**.
-* Encouraged students to participate in coding challenges and technical initiatives.
+* 🏆 Selected as **Co-Lead** for HackerRank On Campus.
+* 💻 Organized coding contests and technical workshops.
+* 🧠 Conducted DSA and programming sessions for students.
+* 👨‍🏫 Mentored students in C programming and problem solving.
+* 🗄️ Conducted SQL-focused technical sessions.
+* 🚀 Encouraged students to participate in coding challenges and technical initiatives.
 
 ---
 
-# 🏆 Achievements & Certifications
+<!-- ===================== ACHIEVEMENTS ===================== -->
+
+<h2 align="center">🏆 Achievements & Certifications</h2>
 
 ### 🥇 Achievements
 
@@ -228,60 +372,98 @@ I actively practice **Data Structures & Algorithms** and competitive programming
 
 ### 📜 Certifications
 
-* **Programming in Java — NPTEL**
-* **Database Management Systems — NPTEL**
-* **Advanced SQL for Data Analytics**
-* **Python Essentials — Cisco**
-* **Java Full Stack**
-* **HackerRank Python**
-* **HackerRank SQL**
+* 🎓 **Programming in Java — NPTEL**
+* 🗄️ **Database Management Systems — NPTEL**
+* 📊 **Advanced SQL for Data Analytics**
+* 🐍 **Python Essentials — Cisco**
+* 💻 **Java Full Stack**
+* 🟢 **HackerRank Python**
+* 🟢 **HackerRank SQL**
 
 ---
 
-# 📊 GitHub Analytics
+<!-- ===================== GITHUB ANALYTICS ===================== -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jyothirmai-09&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothirmai-09&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jyothirmai-09&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothirmai-09&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothirmai-09&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
 
 ---
 
-## 📈 Contribution Activity
+<!-- ===================== CONNECT ===================== -->
+
+<h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothirmai-09&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  I'm always open to connecting with developers, recruiters, mentors and
+  people working on interesting technical projects.
 </p>
 
----
+<br>
 
-# 🌱 Currently
+<table align="center">
+<tr>
+<td align="center">
 
-```text
-Full-Stack Development   ███████████████████░   Learning & Building
-Data Analytics           █████████████████░░░   Exploring & Practicing
-SQL & Databases           ███████████████████░   Strengthening
-DSA & Problem Solving     ████████████████████  Practicing
-```
-
----
-
-<p align="center">
-
-### 💡 Build. Analyze. Solve.
-
-<i>Turning ideas into applications, data into insights, and problems into solutions.</i>
-
-<br><br>
+### 📧 Email
 
 <a href="mailto:seepanajyothirmai60@gmail.com">
-  <img src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  seepanajyothirmai60@gmail.com
+</a>
+
+</td>
+
+<td align="center">
+
+### 💼 LinkedIn
+
+<a href="https://www.linkedin.com/in/seepanajyothirmai">
+  linkedin.com/in/seepanajyothirmai
+</a>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<p align="center">
+
+<a href="mailto:seepanajyothirmai60@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/seepanajyothirmai">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://jyothirmai-09.github.io/portfolio/">
+<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
-<!-- Footer Animation -->
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  <b>💡 Build. Analyze. Solve.</b>
+</p>
+
+<p align="center">
+  <i>Turning ideas into applications, data into insights, and problems into solutions.</i>
+</p>
+
+<!-- ===================== FOOTER ANIMATION ===================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling" width="100%"/>
 </p>
