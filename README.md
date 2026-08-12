@@ -532,64 +532,53 @@ width="95%"
 <!--                     LET'S CONNECT                           -->
 <!-- ========================================================= -->
 
+
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
-
-I'm always open to connecting with developers, recruiters, mentors,
-and people working on interesting technical projects.
-
+  <i>
+    Open to connecting with developers, recruiters, mentors,
+    and people building interesting things with technology.
+  </i>
 </p>
-
-<br>
-
-<table align="center">
-
-<tr>
-
-<td align="center" width="50%">
-
-### 📧 Email
-
-<a href="mailto:seepanajyothirmai60@gmail.com">
-<b>seepanajyothirmai60@gmail.com</b>
-</a>
-
-</td>
-
-<td align="center" width="50%">
-
-### 💼 LinkedIn
-
-<a href="https://www.linkedin.com/in/seepanajyothirmai">
-<b>linkedin.com/in/seepanajyothirmai</b>
-</a>
-
-</td>
-
-</tr>
-
-</table>
 
 <br>
 
 <p align="center">
 
 <a href="mailto:seepanajyothirmai60@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-seepanajyothirmai60%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/seepanajyothirmai">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Seepana%20Jyothirmai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Jyothirmai-09">
+<img src="https://img.shields.io/badge/GitHub-Jyothirmai--09-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://jyothirmai-09.github.io/portfolio/">
-<img src="https://img.shields.io/badge/PORTFOLIO-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
 <br>
+
+<p align="center">
+  ✦ &nbsp; ✧ &nbsp; ✦ &nbsp; <b>Let's build something meaningful.</b> &nbsp; ✦ &nbsp; ✧ &nbsp; ✦
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
+</p>
+
+<p align="center">
+  <sub>© 2026 Seepana Jyothirmai • Built with curiosity, code & coffee ☕</sub>
+</p>
 
 <!-- ========================================================= -->
 <!--                     PROFILE VIEWS                          -->
