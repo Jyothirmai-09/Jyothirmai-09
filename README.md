@@ -432,20 +432,6 @@ alt="Building Analyzing Solving"
 
 <br>
 
-<p align="center">
-
-`Arrays` · `Strings` · `Hashing` · `Two Pointers` · `Sliding Window`
-
-<br>
-
-`Binary Search` · `Linked Lists` · `Stacks` · `Queues` · `Trees`
-
-<br>
-
-`Graphs` · `Recursion` · `Dynamic Programming`
-
-</p>
-
 ---
 
 <!-- ========================================================= -->
@@ -524,44 +510,9 @@ width="95%"
 />
 
 </p>
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Jyothirmai-09/Jyothirmai-09/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Jyothirmai-09/Jyothirmai-09/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/Jyothirmai-09/Jyothirmai-09/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-      width="95%"
-    />
-  </picture>
-</p>
----
-
-<!-- ========================================================= -->
-<!--                    CONTRIBUTION SNAKE                       -->
-<!-- ========================================================= -->
-
-<h2 align="center">🐍 Contribution Activity</h2>
-
-<p align="center">
-
-<img
-src="https://raw.githubusercontent.com/Jyothirmai-09/Jyothirmai-09/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-width="95%"
-/>
-
-</p>
 
 ---
+
 
 <!-- ========================================================= -->
 <!--                     LET'S CONNECT                           -->
