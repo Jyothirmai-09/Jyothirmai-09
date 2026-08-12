@@ -1,29 +1,37 @@
 <!-- ========================================================= -->
-<!--                         HERO SECTION                        -->
+<!--                       ANIMATED HEADER                      -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=220&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&animation=twinkling"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=5000&pause=1800&color=6C63FF&center=true&vCenter=true&width=1000&height=75&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B"
-    alt="Hi, I'm Seepana Jyothirmai"
-  />
-</p>
+<!-- ========================================================= -->
+<!--                         NAME                                -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5500&pause=1800&color=555555&center=true&vCenter=true&width=1000&height=55&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver"
-    alt="Computer Science Undergraduate"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=4500&pause=1800&color=6C63FF&center=true&vCenter=true&width=950&height=80&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%92%9C"
+    alt="Seepana Jyothirmai"
   />
 </p>
 
-<br>
+<!-- ========================================================= -->
+<!--                       TAGLINE                               -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=5000&pause=1800&color=444444&center=true&vCenter=true&width=1050&height=65&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
+    alt="Typing Roles"
+  />
+</p>
+
+
 
 <!-- ========================================================= -->
 <!--                     SOCIAL PROFILES                         -->
