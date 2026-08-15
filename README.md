@@ -63,6 +63,27 @@
 </p>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 
 <!-- ========================================================= -->
 <!--                         ABOUT ME                            -->
@@ -166,7 +187,27 @@ and data into meaningful insights."</i>
 </table>
 
 <br>
-
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                    TECHNICAL TOOLKIT                       -->
 <!-- ========================================================= -->
@@ -285,6 +326,27 @@ and data into meaningful insights."</i>
 </table>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
@@ -451,6 +513,27 @@ profit, sales performance and product-level insights.
 </table>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 
 <!-- ========================================================= -->
 <!--              PROBLEM SOLVING & ACHIEVEMENTS               -->
@@ -488,7 +571,27 @@ profit, sales performance and product-level insights.
 </p>
 
 <br>
-
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                 LEADERSHIP & COMMUNITY                     -->
 <!-- ========================================================= -->
@@ -534,7 +637,27 @@ profit, sales performance and product-level insights.
 </table>
 
 <br>
-
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                     CERTIFICATIONS                         -->
 <!-- ========================================================= -->
@@ -565,6 +688,27 @@ profit, sales performance and product-level insights.
 </p>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                  GITHUB STATISTICS                         -->
 <!-- ========================================================= -->
@@ -585,6 +729,27 @@ profit, sales performance and product-level insights.
 </p>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 <!-- ========================================================= -->
 <!--                     LET'S CONNECT                           -->
 <!-- ========================================================= -->
@@ -625,6 +790,27 @@ profit, sales performance and product-level insights.
 </p>
 
 <br>
+<p align="center">
+  <svg width="95%" height="6" viewBox="0 0 1000 6" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="line" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#8B5CF6" stop-opacity="0"/>
+        <stop offset="15%" stop-color="#8B5CF6"/>
+        <stop offset="50%" stop-color="#A78BFA"/>
+        <stop offset="85%" stop-color="#8B5CF6"/>
+        <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <rect width="1000" height="2" fill="url(#line)">
+      <animate
+        attributeName="opacity"
+        values="0.45;1;0.45"
+        dur="3s"
+        repeatCount="indefinite"
+      />
+    </rect>
+  </svg>
+</p>
 
 <!-- ========================================================= -->
 <!--                       A LITTLE NOTE                        -->
