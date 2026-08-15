@@ -68,7 +68,7 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                       ABOUT ME                             -->
+<!--                         ABOUT ME                            -->
 <!-- ========================================================= -->
 
 <h2 align="center">🧠 About Me</h2>
@@ -76,59 +76,44 @@
 <table align="center">
 <tr>
 
-<td width="58%" valign="top">
+<td width="55%" valign="top">
 
 <h3>👩‍💻 Who I Am</h3>
 
 <pre>
 const jyothirmai = {
-
   role: "CS Undergraduate",
-
   focus: [
     "Full Stack Development",
     "Data Analytics",
     "AI & Problem Solving"
   ],
-
   stack: "React • TypeScript • Python • SQL",
-
   mindset: "Build • Analyze • Solve • Learn",
-
   leadership: "HackerRank On Campus Co-Lead",
-
   goal: "Create impactful digital solutions 🚀"
 };
 </pre>
 
 </td>
 
-<td width="42%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <img
   src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-  width="300"
+  width="260"
   alt="Developer coding"
 />
 
-<br><br>
-
 <h3>🚀 What I Do</h3>
 
-<p>💻 Build Full Stack Applications</p>
+<p>💻 Full Stack Applications</p>
+<p>📊 Data Analytics & Dashboards</p>
+<p>🤖 AI-powered Solutions</p>
+<p>🧩 Problem Solving</p>
 
-<p>📊 Analyze Data & Create Dashboards</p>
-
-<p>🤖 Explore AI-powered Solutions</p>
-
-<p>🧩 Solve DSA Problems</p>
-
-<br>
-
-<i>
-"Turning ideas into applications<br>
-and data into meaningful insights."
-</i>
+<i>"Turning ideas into applications<br>
+and data into meaningful insights."</i>
 
 </td>
 
@@ -545,39 +530,6 @@ profit, sales performance and product-level insights.
 <img src="https://img.shields.io/badge/HackerRank-Python-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                     GITHUB ANALYTICS                        -->
-<!-- ========================================================= -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Jyothirmai-09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-height="180"
-/>
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothirmai-09&layout=compact&hide_border=true&theme=tokyonight"
-height="180"
-/>
-
-</p>
-
-<br>
-
-<p align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothirmai-09&theme=tokyo-night&hide_border=true&area=true"
-width="95%"
-/>
 
 </p>
 
