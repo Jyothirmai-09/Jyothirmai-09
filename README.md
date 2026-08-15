@@ -4,35 +4,32 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=170&section=header&animation=twinkling"
     width="100%"
   />
 </p>
 
 <!-- ========================================================= -->
-<!--                         NAME                                -->
+<!--                         NAME                               -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=4500&pause=1800&color=6C63FF&center=true&vCenter=true&width=950&height=80&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%92%9C"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=40&duration=4500&pause=1800&color=6C63FF&center=true&vCenter=true&width=900&height=60&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%92%9C"
     alt="Seepana Jyothirmai"
   />
 </p>
 
 <!-- ========================================================= -->
-<!--                       TAGLINE                               -->
+<!--                       TAGLINE                              -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=5000&pause=1800&color=8B5CF6&center=true&vCenter=true&width=1050&height=65&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5000&pause=1800&color=8B5CF6&center=true&vCenter=true&width=1000&height=50&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
     alt="Typing Roles"
   />
 </p>
-
-
-
 <!-- ========================================================= -->
 <!--                     SOCIAL PROFILES                         -->
 <!-- ========================================================= -->
@@ -539,7 +536,35 @@ profit, sales performance and product-level insights.
 </p>
 
 <br>
+<!-- ========================================================= -->
+<!--                  GITHUB STATISTICS                         -->
+<!-- ========================================================= -->
 
+<h2 align="center">📊 GitHub Statistics</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Jyothirmai-09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="GitHub Statistics"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothirmai-09&layout=compact&hide_border=true&theme=tokyonight"
+    height="180"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothirmai-09&theme=tokyonight&hide_border=true"
+    width="70%"
+    alt="GitHub Streak"
+  />
+</p>
+
+<br>
 <!-- ========================================================= -->
 <!--                     LET'S CONNECT                           -->
 <!-- ========================================================= -->
@@ -578,21 +603,15 @@ profit, sales performance and product-level insights.
 <br>
 
 <!-- ========================================================= -->
-<!--                       A LITTLE NOTE                         -->
+<!--                       A LITTLE NOTE                        -->
 <!-- ========================================================= -->
 
 <h3 align="center">✨ A Little Note</h3>
 
 <p align="center">
-  <i>"Every line of code is an opportunity to learn, create, and improve."</i>
-</p>
-
-<p align="center">
+  <i>"Every line of code is an opportunity to learn, create, and improve."</i><br>
   Passionate about <b>Full Stack Development</b>, <b>Data Analytics</b>,
-  <b>AI</b> & <b>Problem Solving</b>. 🚀
-</p>
-
-<p align="center">
+  <b>AI</b> & <b>Problem Solving</b>. 🚀<br>
   Always learning, building, and exploring new opportunities. 🤝
 </p>
 
@@ -602,22 +621,16 @@ profit, sales performance and product-level insights.
   <b>Thanks for visiting my GitHub profile! 🚀</b>
 </p>
 
-<br>
-
 <!-- ========================================================= -->
-<!--                      PROFILE VIEWS                          -->
+<!--                      PROFILE VIEWS                         -->
 <!-- ========================================================= -->
 
-<div align="center">
-
-<img
-  src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge"
-  alt="Profile Views"
-/>
-
-</div>
-
-<br>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge"
+    alt="Profile Views"
+  />
+</p>
 
 <!-- ========================================================= -->
 <!--                         FOOTER                              -->
