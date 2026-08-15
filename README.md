@@ -26,7 +26,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5000&pause=1800&color=8B5CF6&center=true&vCenter=true&width=1000&height=50&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=5000&pause=1800&color=8B5CF6&center=true&vCenter=true&width=1000&height=50&lines=Computer+Science+Undergraduate+%7C+B.Tech+7C+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
     alt="Typing Roles"
   />
 </p>
@@ -726,7 +726,9 @@ profit, sales performance and product-level insights.
 <!--                       A LITTLE NOTE                        -->
 <!-- ========================================================= -->
 
-<h3 align="center">✨ A Little Note</h3>
+<h3 align="center">
+  ✨ <b>A Little Note</b> ✨
+</h3>
 
 <p align="center">
   <i>"Every line of code is an opportunity to learn, create, and improve."</i><br>
