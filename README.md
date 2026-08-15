@@ -62,9 +62,6 @@
 <!-- ========================================================= -->
 <!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
-<!-- ========================================================= -->
-<!--                         ABOUT ME                            -->
-<!-- ========================================================= -->
 
 <h2 align="center">🧠 About Me</h2>
 
@@ -129,79 +126,6 @@ and data into meaningful insights."
 
 </tr>
 </table>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                     QUICK FACTS                            -->
-<!-- ========================================================= -->
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-<h2>💻</h2>
-
-<b>Full Stack</b>
-
-<br><br>
-
-React • TypeScript<br>
-JavaScript • Backend
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>📊</h2>
-
-<b>Data Analytics</b>
-
-<br><br>
-
-SQL • Power BI<br>
-Python • Excel
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>🧩</h2>
-
-<b>Problem Solver</b>
-
-<br><br>
-
-500+ DSA Problems<br>
-LeetCode Knight
-
-</td>
-
-<td align="center" width="25%">
-
-<h2>👩‍💼</h2>
-
-<b>Leadership</b>
-
-<br><br>
-
-HackerRank<br>
-Co-Lead
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4500&pause=1300&color=8B7CFF&center=true&vCenter=true&width=850&height=40&lines=Build+%E2%80%A2+Analyze+%E2%80%A2+Solve+%E2%80%A2+Learn+%E2%80%A2+Grow+%F0%9F%9A%80"
-    alt="Build Analyze Solve Learn Grow"
-  />
-</p>
 
 <br>
 
