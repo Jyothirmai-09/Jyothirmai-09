@@ -166,7 +166,7 @@ and data into meaningful insights."</i>
 <br>
 
 <!-- ========================================================= -->
-<!--                    TECHNICAL TOOLKIT                        -->
+<!--                    TECHNICAL TOOLKIT                       -->
 <!-- ========================================================= -->
 
 <h2 align="center">🛠️ Technical Toolkit</h2>
@@ -187,7 +187,6 @@ and data into meaningful insights."</i>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
@@ -216,10 +215,11 @@ and data into meaningful insights."</i>
 <h3>🗄️ Databases & Backend</h3>
 
 <p>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
 </p>
 
 </td>
@@ -230,7 +230,7 @@ and data into meaningful insights."</i>
 
 <p>
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
@@ -267,6 +267,8 @@ and data into meaningful insights."</i>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
 </p>
 
 </td>
@@ -276,7 +278,6 @@ and data into meaningful insights."</i>
 </table>
 
 <br>
-
 <!-- ========================================================= -->
 <!--                    FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
@@ -531,6 +532,10 @@ profit, sales performance and product-level insights.
 
 <img src="https://img.shields.io/badge/HackerRank-SQL-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Power%20BI-Data%20Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Advanced%20SQL-Data%20Analytics-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </p>
 
 <br>
@@ -579,36 +584,19 @@ profit, sales performance and product-level insights.
 <h3 align="center">✨ A Little Note</h3>
 
 <p align="center">
-  <i>
-    "I believe every line of code is an opportunity to learn,
-    create, and make something better."
-  </i>
+  <i>"Every line of code is an opportunity to learn, create, and improve."</i>
 </p>
 
 <p align="center">
-  I'm constantly learning, building, and exploring new ideas —
-  one project and one problem at a time. 🚀
+  Passionate about <b>Full Stack Development</b>, <b>Data Analytics</b>,
+  <b>AI</b> & <b>Problem Solving</b>. 🚀
 </p>
 
 <p align="center">
-  I'm passionate about <b>Full Stack Development</b>,
-  <b>Data Analytics</b>, <b>Artificial Intelligence</b>,
-  and <b>Problem Solving</b>.
+  Always learning, building, and exploring new opportunities. 🤝
 </p>
 
-<p align="center">
-  I'm always excited to collaborate on innovative projects,
-  contribute to open source, and explore new opportunities.
-</p>
-
-<p align="center">
-  If you'd like to connect, collaborate, or discuss an exciting project,
-  feel free to reach out! 🤝
-</p>
-
-<h3 align="center">
-  🌟 Keep Learning. Keep Building. Keep Growing. 💜
-</h3>
+<h3 align="center">🌟 Keep Learning. Keep Building. Keep Growing. 💜</h3>
 
 <p align="center">
   <b>Thanks for visiting my GitHub profile! 🚀</b>
@@ -620,14 +608,14 @@ profit, sales performance and product-level insights.
 <!--                      PROFILE VIEWS                          -->
 <!-- ========================================================= -->
 
-<p align="center">
+<div align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge"
-alt="Profile Views"
+  src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge"
+  alt="Profile Views"
 />
 
-</p>
+</div>
 
 <br>
 
