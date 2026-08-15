@@ -1,32 +1,40 @@
 <!-- ========================================================= -->
-<!--                         HERO                               -->
+<!--                       ANIMATED HEADER                      -->
 <!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&text=&fontSize=0&animation=twinkling"
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=230&section=header&animation=twinkling"
     width="100%"
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=42&duration=5000&pause=1800&color=8B7CFF&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B"
-    alt="Hi, I'm Seepana Jyothirmai"
-  />
-</p>
+<!-- ========================================================= -->
+<!--                         NAME                                -->
+<!-- ========================================================= -->
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=5500&pause=1700&color=9AA4B2&center=true&vCenter=true&width=1000&height=60&lines=Computer+Science+Undergraduate;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver"
-    alt="Computer Science Undergraduate"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=46&duration=4500&pause=1800&color=6C63FF&center=true&vCenter=true&width=950&height=80&lines=Hi%2C+I'm+Seepana+Jyothirmai+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile+%F0%9F%92%9C"
+    alt="Seepana Jyothirmai"
   />
 </p>
-
-<br>
 
 <!-- ========================================================= -->
-<!--                    SOCIAL LINKS                            -->
+<!--                       TAGLINE                               -->
+<!-- ========================================================= -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=5000&pause=1800&color=444444&center=true&vCenter=true&width=1050&height=65&lines=Computer+Science+Undergraduate+%7C+Class+of+2027;Full+Stack+Developer+%7C+Data+Analyst+%7C+Problem+Solver;Building+Applications+%7C+Analyzing+Data+%7C+Solving+Problems;Turning+Ideas+Into+Impactful+Digital+Solutions"
+    alt="Typing Roles"
+  />
+</p>
+
+
+
+<!-- ========================================================= -->
+<!--                     SOCIAL PROFILES                         -->
 <!-- ========================================================= -->
 
 <p align="center">
@@ -128,12 +136,57 @@ and data into meaningful insights."
 </table>
 
 <br>
+<!-- ========================================================= -->
+<!--                       WHAT I DO                             -->
+<!-- ========================================================= -->
+
+<table align="center">
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>👩‍💻 What I Build</h3>
+
+<ul>
+<li>Responsive and user-focused web applications</li>
+<li>Full-stack applications using React & TypeScript</li>
+<li>Secure authentication-based applications</li>
+<li>Data-driven dashboards and reports</li>
+<li>SQL-based analytical solutions</li>
+<li>Interactive data visualizations</li>
+<li>AI-powered application features</li>
+</ul>
+
+</td>
+
+<td width="50%" valign="top">
+
+<h3>🎯 What I Bring</h3>
+
+<ul>
+<li>Strong problem-solving mindset</li>
+<li>Experience with Full Stack Development</li>
+<li>Data analysis & visualization skills</li>
+<li>SQL and database knowledge</li>
+<li>UI/UX focused development</li>
+<li>Leadership & mentoring experience</li>
+<li>Continuous learning mindset</li>
+</ul>
+
+</td>
+
+</tr>
+</table>
+
+<br>
 
 <!-- ========================================================= -->
-<!--                  TECHNICAL TOOLKIT                         -->
+<!--                    TECHNICAL TOOLKIT                        -->
 <!-- ========================================================= -->
 
 <h2 align="center">🛠️ Technical Toolkit</h2>
+
+<br>
 
 <table align="center">
 
@@ -144,21 +197,13 @@ and data into meaningful insights."
 <h3>💻 Programming Languages</h3>
 
 <p>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
 </p>
 
 </td>
@@ -168,17 +213,11 @@ and data into meaningful insights."
 <h3>🌐 Web Development</h3>
 
 <p>
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
 </p>
 
 </td>
@@ -192,17 +231,10 @@ and data into meaningful insights."
 <h3>🗄️ Databases & Backend</h3>
 
 <p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 </td>
@@ -212,19 +244,12 @@ and data into meaningful insights."
 <h3>📊 Data Analytics & BI</h3>
 
 <p>
-
 <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/DAX-512BD4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge"/>
-
 </p>
 
 </td>
@@ -235,18 +260,13 @@ and data into meaningful insights."
 
 <td width="50%" valign="top">
 
-<h3>🤖 AI & APIs</h3>
+<h3>📈 Analytics & Visualization</h3>
 
 <p>
-
-<img src="https://img.shields.io/badge/AI%20Integration-6C63FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OCR-555555?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Google%20Maps%20API-34A853?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Data%20Cleaning-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/EDA-FF7043?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Statistical%20Analysis-7E57C2?style=for-the-badge"/>
 </p>
 
 </td>
@@ -256,19 +276,12 @@ and data into meaningful insights."
 <h3>🛠️ Tools & Platforms</h3>
 
 <p>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
-
 </p>
 
 </td>
@@ -280,7 +293,7 @@ and data into meaningful insights."
 <br>
 
 <!-- ========================================================= -->
-<!--                    FEATURED PROJECTS                       -->
+<!--                    FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
 <h2 align="center">🚀 Featured Projects</h2>
@@ -294,28 +307,20 @@ and data into meaningful insights."
 <h3>🏥 MEDIQ — AI Healthcare Companion</h3>
 
 <p>
-An AI-powered healthcare platform combining multiple intelligent
-healthcare modules into one user-friendly application.
+An AI-powered healthcare companion designed to bring multiple
+healthcare utilities into one user-friendly platform.
 </p>
 
-<p>
-<b>Highlights:</b>
-</p>
-
-<ul>
-<li>Prescription Analyzer</li>
-<li>AI-powered healthcare features</li>
-<li>Mental Buddy</li>
-<li>Disease Prediction</li>
-<li>Hospital Finder</li>
-</ul>
+<b>Tech Stack:</b>
 
 <p>
-<b>Tech:</b> React • TypeScript • Supabase
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
 </p>
 
 <a href="https://github.com/Team-Gen4AI/Project-MediQ">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -325,23 +330,19 @@ healthcare modules into one user-friendly application.
 <h3>💼 LinkedIn Clone</h3>
 
 <p>
-A responsive professional networking platform designed to
-replicate core social networking functionality.
+A professional networking platform featuring a responsive interface,
+user profiles and application functionality.
 </p>
 
-<ul>
-<li>User authentication</li>
-<li>Responsive UI</li>
-<li>Reusable React components</li>
-<li>Firebase integration</li>
-</ul>
+<b>Tech Stack:</b>
 
 <p>
-<b>Tech:</b> React • Firebase
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
 <a href="https://github.com/Jyothirmai-09/linkedin-clone">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -355,22 +356,20 @@ replicate core social networking functionality.
 <h3>🌴 VisitVizag — Tourism Website</h3>
 
 <p>
-A responsive tourism platform showcasing attractions,
-destinations and travel experiences in Visakhapatnam.
+A responsive tourism website showcasing destinations, attractions
+and travel experiences around Visakhapatnam.
 </p>
 
-<ul>
-<li>Responsive design</li>
-<li>Interactive UI</li>
-<li>Tourism-focused content</li>
-</ul>
+<b>Tech Stack:</b>
 
 <p>
-<b>Tech:</b> HTML • CSS • JavaScript
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 </p>
 
 <a href="https://github.com/Jyothirmai-09/VisitVizag">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -380,23 +379,21 @@ destinations and travel experiences in Visakhapatnam.
 <h3>📊 SQL Retail Sales Analysis</h3>
 
 <p>
-Data analysis project focused on extracting meaningful retail
-business insights using SQL.
+Analyzed retail sales data using SQL to derive customer,
+product and business performance insights.
 </p>
 
-<ul>
-<li>Customer analysis</li>
-<li>Product analysis</li>
-<li>Sales performance</li>
-<li>CTEs & Window Functions</li>
-</ul>
+<b>Focus Areas:</b>
 
 <p>
-<b>Tech:</b> SQL • MySQL
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Joins-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/CTEs-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Window%20Functions-6C63FF?style=flat-square"/>
 </p>
 
 <a href="https://github.com/Jyothirmai-09/SQL_Retail_Project">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -410,16 +407,20 @@ business insights using SQL.
 <h3>🎬 Netflix Data Analysis</h3>
 
 <p>
-Exploratory data analysis of Netflix content to identify trends,
-patterns and insights.
+Exploratory analysis of Netflix content using Python and Pandas
+to identify trends and patterns in the dataset.
 </p>
 
+<b>Tech Stack:</b>
+
 <p>
-<b>Tech:</b> Python • Pandas • NumPy • Data Visualization
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 </p>
 
 <a href="https://github.com/Jyothirmai-09/Netflix-python-project">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -429,16 +430,20 @@ patterns and insights.
 <h3>📈 Retail Analytics Dashboard</h3>
 
 <p>
-Interactive Power BI dashboard designed to analyze sales,
-revenue, profit and product performance.
+Interactive Power BI dashboard designed to analyze revenue,
+profit, sales performance and product-level insights.
 </p>
 
+<b>Tech Stack:</b>
+
 <p>
-<b>Tech:</b> Power BI • DAX • Excel • Power Query
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/DAX-512BD4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 <a href="https://github.com/Jyothirmai-09/Retail_Analytics_DAX_Project">
-<img src="https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </td>
@@ -450,10 +455,10 @@ revenue, profit and product performance.
 <br>
 
 <!-- ========================================================= -->
-<!--                 PROBLEM SOLVING                            -->
+<!--              PROBLEM SOLVING & ACHIEVEMENTS               -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧩 Problem Solving</h2>
+<h2 align="center">🧩 Problem Solving & Achievements</h2>
 
 <p align="center">
 
@@ -461,28 +466,28 @@ revenue, profit and product performance.
 <img src="https://img.shields.io/badge/LeetCode-Knight%20Badge-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<img src="https://img.shields.io/badge/500%2B-DSA%20Problems-FFA116?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/430%2B%20DSA%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/LeetCode-Peak%20Rating%201964-FFA116?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LeetCode-Rating%201917-FFA116?style=for-the-badge"/>
 
 <a href="https://www.codechef.com/users/jyothirmai_09">
 <img src="https://img.shields.io/badge/CodeChef-2%E2%98%85-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
 </a>
 
-<img src="https://img.shields.io/badge/CodeChef-Peak%20Rating%201543-5B4638?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Peak%20Rating%201526-5B4638?style=for-the-badge"/>
 
 </p>
 
 <p align="center">
-  I enjoy solving algorithmic problems and continuously improving
-  my understanding of <b>Data Structures, Algorithms, SQL and
-  Problem Solving</b>.
+  Regularly practicing <b>Data Structures & Algorithms</b> across
+  arrays, strings, linked lists, stacks, queues, trees, graphs,
+  recursion, dynamic programming, hashing and greedy algorithms.
 </p>
 
 <br>
 
 <!-- ========================================================= -->
-<!--                 LEADERSHIP                                -->
+<!--                 LEADERSHIP & COMMUNITY                     -->
 <!-- ========================================================= -->
 
 <h2 align="center">👩‍💼 Leadership & Community</h2>
@@ -506,13 +511,13 @@ revenue, profit and product performance.
 
 <td width="50%" valign="top">
 
-<h3>🌱 Mentoring & Activities</h3>
+<h3>📢 Mentoring & Activities</h3>
 
 <ul>
 <li>Mentored students in C programming.</li>
-<li>Conducted programming sessions for juniors.</li>
-<li>Guided peers in DSA and SQL concepts.</li>
-<li>Participated in technical community initiatives.</li>
+<li>Conducted introductory programming sessions.</li>
+<li>Guided peers with DSA and SQL concepts.</li>
+<li>Actively involved in technical community initiatives.</li>
 </ul>
 
 </td>
@@ -524,7 +529,7 @@ revenue, profit and product performance.
 <br>
 
 <!-- ========================================================= -->
-<!--                 CERTIFICATIONS                             -->
+<!--                     CERTIFICATIONS                         -->
 <!-- ========================================================= -->
 
 <h2 align="center">📜 Certifications & Learning</h2>
@@ -534,8 +539,6 @@ revenue, profit and product performance.
 <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-0056D2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/NPTEL-Database%20Management%20Systems-0056D2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NPTEL-Operating%20Systems-0056D2?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Cisco-Python%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
@@ -548,7 +551,7 @@ revenue, profit and product performance.
 <br>
 
 <!-- ========================================================= -->
-<!--                  GITHUB ANALYTICS                          -->
+<!--                     GITHUB ANALYTICS                        -->
 <!-- ========================================================= -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
@@ -572,8 +575,8 @@ height="180"
 <p align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothirmai-09&theme=tokyonight&hide_border=true"
-width="70%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothirmai-09&theme=tokyo-night&hide_border=true&area=true"
+width="95%"
 />
 
 </p>
@@ -581,15 +584,15 @@ width="70%"
 <br>
 
 <!-- ========================================================= -->
-<!--                   LET'S CONNECT                            -->
+<!--                     LET'S CONNECT                           -->
 <!-- ========================================================= -->
 
 <h2 align="center">🤝 Let's Connect</h2>
 
 <p align="center">
   <i>
-    I'm always open to connecting with developers, recruiters,
-    mentors, and people working on interesting technical projects.
+    Open to connecting with developers, recruiters, mentors,
+    and people building interesting things with technology.
   </i>
 </p>
 
@@ -605,23 +608,23 @@ width="70%"
 <img src="https://img.shields.io/badge/LinkedIn-Seepana%20Jyothirmai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Jyothirmai-09">
+<img src="https://img.shields.io/badge/GitHub-Jyothirmai--09-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://jyothirmai-09.github.io/portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
 
-<p align="center">
-  📞 <b>+91 8179879778</b>
-</p>
-
 <br>
 
 <!-- ========================================================= -->
-<!--                     A LITTLE NOTE                          -->
+<!--                       A LITTLE NOTE                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">✨ A Little Note</h2>
+<h3 align="center">✨ A Little Note</h3>
 
 <p align="center">
   <i>
@@ -662,13 +665,13 @@ width="70%"
 <br>
 
 <!-- ========================================================= -->
-<!--                    PROFILE VIEWS                           -->
+<!--                      PROFILE VIEWS                          -->
 <!-- ========================================================= -->
 
 <p align="center">
 
 <img
-src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=PROFILE%20VIEWS&color=6C63FF&style=for-the-badge"
+src="https://komarev.com/ghpvc/?username=Jyothirmai-09&label=Profile%20Views&color=6C63FF&style=for-the-badge"
 alt="Profile Views"
 />
 
@@ -677,13 +680,13 @@ alt="Profile Views"
 <br>
 
 <!-- ========================================================= -->
-<!--                       FOOTER                               -->
+<!--                         FOOTER                              -->
 <!-- ========================================================= -->
 
 <p align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=130&section=footer&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling"
 width="100%"
 />
 
