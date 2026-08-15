@@ -68,7 +68,12 @@
 <!--                         ABOUT ME                            -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧠 About Me</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=420&height=40&lines=%E2%9C%A8+About+Me+%E2%9C%A8"
+    alt="About Me"
+  />
+</p>
 
 <table align="center">
 <tr>
@@ -166,7 +171,12 @@ and data into meaningful insights."</i>
 <!--                    TECHNICAL TOOLKIT                       -->
 <!-- ========================================================= -->
 
-<h2 align="center">🛠️ Technical Toolkit</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A8+Technical+Toolkit+%E2%9C%A8"
+    alt="Technical Toolkit"
+  />
+</p>
 
 <br>
 
@@ -279,7 +289,12 @@ and data into meaningful insights."</i>
 <!--                    FEATURED PROJECTS                        -->
 <!-- ========================================================= -->
 
-<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A8+Featured+Projects+%E2%9C%A8"
+    alt="Featured Projects"
+  />
+</p>
 
 <table align="center">
 
@@ -441,7 +456,12 @@ profit, sales performance and product-level insights.
 <!--              PROBLEM SOLVING & ACHIEVEMENTS               -->
 <!-- ========================================================= -->
 
-<h2 align="center">🧩 Problem Solving & Achievements</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=%E2%9C%A8+Problem+Solving+%26+Achievements+%E2%9C%A8"
+    alt="Problem Solving & Achievements"
+  />
+</p>
 
 <p align="center">
 
@@ -472,8 +492,12 @@ profit, sales performance and product-level insights.
 <!-- ========================================================= -->
 <!--                 LEADERSHIP & COMMUNITY                     -->
 <!-- ========================================================= -->
-
-<h2 align="center">👩‍💼 Leadership & Community</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=%E2%9C%A8+Leadership+%26+Community+%E2%9C%A8"
+    alt="Leadership & Community"
+  />
+</p>
 
 <table align="center">
 
@@ -515,7 +539,12 @@ profit, sales performance and product-level insights.
 <!--                     CERTIFICATIONS                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">📜 Certifications & Learning</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&height=40&lines=%E2%9C%A8+Certifications+%26+Learning+%E2%9C%A8"
+    alt="Certifications & Learning"
+  />
+</p>
 
 <p align="center">
 
@@ -540,27 +569,18 @@ profit, sales performance and product-level insights.
 <!--                  GITHUB STATISTICS                         -->
 <!-- ========================================================= -->
 
-<h2 align="center">📊 GitHub Statistics</h2>
-
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Jyothirmai-09&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight"
-    height="180"
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=500&height=40&lines=%E2%9C%A8+GitHub+Statistics+%E2%9C%A8"
     alt="GitHub Statistics"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyothirmai-09&layout=compact&hide_border=true&theme=tokyonight"
-    height="180"
-    alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Jyothirmai-09&theme=tokyonight&hide_border=true"
-    width="70%"
-    alt="GitHub Streak"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Jyothirmai-09&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=FFFFFF&area=true&hide_border=true"
+    width="95%"
+    alt="GitHub Contribution Graph"
   />
 </p>
 
@@ -568,8 +588,12 @@ profit, sales performance and product-level insights.
 <!-- ========================================================= -->
 <!--                     LET'S CONNECT                           -->
 <!-- ========================================================= -->
-
-<h2 align="center">🤝 Let's Connect</h2>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=24&duration=2800&pause=1200&color=8B5CF6&center=true&vCenter=true&width=450&height=40&lines=%E2%9C%A8+Let's+Connect+%E2%9C%A8"
+    alt="Let's Connect"
+  />
+</p>
 
 <p align="center">
   <i>
