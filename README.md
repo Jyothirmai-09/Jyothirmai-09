@@ -62,134 +62,68 @@
 <!-- ========================================================= -->
 <!--                       ABOUT ME                             -->
 <!-- ========================================================= -->
+<!-- ========================================================= -->
+<!--                         ABOUT ME                            -->
+<!-- ========================================================= -->
 
 <h2 align="center">🧠 About Me</h2>
 
 <table align="center">
 <tr>
 
-<td width="55%" valign="top">
+<td width="58%" valign="top">
 
-<h3>💻 A little about me...</h3>
+<h3>👩‍💻 Who I Am</h3>
 
 <pre>
 const jyothirmai = {
 
-  education:
-    "B.Tech CSE Undergraduate",
+  role: "CS Undergraduate",
 
-  identity: [
-    "Full Stack Developer",
-    "Data Analyst",
-    "Problem Solver"
-  ],
-
-  passionateAbout: [
-    "Building web applications",
+  focus: [
+    "Full Stack Development",
     "Data Analytics",
-    "Artificial Intelligence",
-    "DSA & Problem Solving"
+    "AI & Problem Solving"
   ],
 
-  languages: [
-    "Python",
-    "Java",
-    "C",
-    "C++",
-    "JavaScript",
-    "TypeScript",
-    "SQL"
-  ],
+  stack: "React • TypeScript • Python • SQL",
 
-  development: {
-    frontend: [
-      "HTML5",
-      "CSS3",
-      "JavaScript",
-      "React",
-      "TypeScript"
-    ],
+  mindset: "Build • Analyze • Solve • Learn",
 
-    backend: [
-      "Node.js",
-      "Express.js"
-    ],
+  leadership: "HackerRank On Campus Co-Lead",
 
-    databases: [
-      "PostgreSQL",
-      "MongoDB",
-      "MySQL",
-      "Supabase",
-      "Firebase"
-    ]
-  },
-
-  analytics: [
-    "Python",
-    "Pandas",
-    "NumPy",
-    "SQL",
-    "Power BI",
-    "Excel",
-    "DAX"
-  ],
-
-  currentlyLearning: [
-    "Advanced DSA",
-    "Backend Development",
-    "AI Integration"
-  ],
-
-  problemSolving:
-    "500+ DSA Problems",
-
-  leadership:
-    "HackerRank On Campus Co-Lead",
-
-  goal:
-    "Build impactful software & 
-     data-driven solutions 🚀"
+  goal: "Create impactful digital solutions 🚀"
 };
 </pre>
 
 </td>
 
-<td width="45%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
 <img
-src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
-width="390"
-alt="Developer coding"
+  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif"
+  width="300"
+  alt="Developer coding"
 />
 
 <br><br>
 
-<h3>🚀 What I Love Building</h3>
+<h3>🚀 What I Do</h3>
 
-<p>
-💻 <b>Full Stack Applications</b>
-</p>
+<p>💻 Build Full Stack Applications</p>
 
-<p>
-📊 <b>Data Analytics Dashboards</b>
-</p>
+<p>📊 Analyze Data & Create Dashboards</p>
 
-<p>
-🤖 <b>AI-powered Solutions</b>
-</p>
+<p>🤖 Explore AI-powered Solutions</p>
 
-<p>
-🧩 <b>Problem Solving</b>
-</p>
+<p>🧩 Solve DSA Problems</p>
 
 <br>
 
-<p>
 <i>
 "Turning ideas into applications<br>
 and data into meaningful insights."
 </i>
-</p>
 
 </td>
 
